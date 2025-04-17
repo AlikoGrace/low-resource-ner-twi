@@ -61,7 +61,7 @@ def count_entities(conll_file):
     for ent_type in ["PER", "ORG", "LOC", "DATE", "MISC"]:
         count = entity_counts[ent_type]
         pct = (count / total_entities * 100) if total_entities > 0 else 0
-        warning = "⚠️" if pct < 5 and count > 0 else ""
+        warning = "⚠️" if pct < 5 and count >= 0 else ""
         print(f"{ent_type:5}: {count:4} ({pct:.2f}%) {warning}")
     
     # Print out the percentage of 'O' tag sentences
