@@ -31,7 +31,9 @@ def count_entities(conll_file):
         if len(parts) >= 2:
             tag = parts[-1]
             current_sentence_tags.append(tag)
-            if tag.startswith("B-") or tag.startswith("I-"):
+
+            # Only count B- tags as new entities
+            if tag.startswith("B-"):
                 entity_type = tag[2:]
 
                 # Normalize composite tags
