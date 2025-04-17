@@ -1,4 +1,3 @@
--DOCSTART- -X- O
 Obiara -X- _ O
 gye -X- _ O
 to -X- _ O
@@ -13,7 +12,7 @@ daadaafo -X- _ O
 ‘Ananse’ -X- _ B-PER
 , -X- _ O
 yɛ -X- _ O
-aboa -X- _ O
+aboa -X- _ B-MISC
 , -X- _ O
 naaso -X- _ O
 wɔtaa -X- _ O
@@ -21,7 +20,7 @@ kyerɛ -X- _ O
 no -X- _ O
 sɛ -X- _ O
 ɔyɛ -X- _ O
-barima -X- _ O
+barima -X- _ B-MISC
 . -X- _ O
 
 Anansesɛm -X- _ B-MISC
@@ -121,7 +120,6 @@ ano -X- _ O
 wɔ -X- _ O
 n'enim -X- _ O
 . -X- _ O
-' -X- _ O
 
 Nyame -X- _ B-PER
 bɔɔ -X- _ O
@@ -141,8 +139,8 @@ Nyame -X- _ B-PER
 enika -X- _ O
 efiri -X- _ O
 sɛ -X- _ O
-abere -X- _ O
-biara -X- _ O
+abere -X- _ B-MISC
+biara -X- _ I-MISC
 ɔba -X- _ O
 bɛka -X- _ O
 nsɛm -X- _ O
@@ -188,9 +186,9 @@ ma -X- _ O
 gua -X- _ O
 mu -X- _ O
 kɔtɔɔ -X- _ O
-bayer -X- _ O
+bayere -X- _ B-MISC
 ne -X- _ O
-borɛde -X- _ O
+borɛde -X- _ B-MISC
 a -X- _ O
 ɔbɛdi -X- _ O
 no -X- _ O
@@ -259,7 +257,7 @@ na -X- _ O
 ne -X- _ O
 eduanenoa -X- _ O
 wɔ -X- _ O
-bukyia -X- _ O
+bukyia -X- _ B-MISC
 ne -X- _ O
 so -X- _ O
 . -X- _ O
@@ -311,10 +309,10 @@ Nyame -X- _ B-PER
 hɔ -X- _ O
 ! -X- _ O
 
-Nda -X- _ B-DATE/TIME
-kakra -X- _ O
-twaa -X- _ O
-mu -X- _ O
+Nda -X- _ B-MISC
+kakra -X- _ I-MISC
+twaa -X- _ I-MISC
+mu -X- _ I-MISC
 na -X- _ O
 nna -X- _ O
 biribiara -X- _ O
@@ -324,7 +322,7 @@ yie -X- _ O
 ... -X- _ O
 
 kɔpem -X- _ O
-bere -X- _ B-DATE/TIME
+bere -X- _ B-MISC
 a -X- _ O
 Ananse -X- _ B-PER
 kɔhwɛɛ -X- _ O
@@ -379,8 +377,8 @@ nsia -X- _ O
 borɛde -X- _ O
 baasa -X- _ O
 wɔ -X- _ O
-bere -X- _ B-DATE/TIME
-tiawa -X- _ I-DATE/TIME
+bere -X- _ B-MISC
+tiawa -X- _ I-MISC
 yi -X- _ O
 mu -X- _ O
 anaa -X- _ O
@@ -439,8 +437,8 @@ gyaade -X- _ B-LOC
 ne -X- _ O
 ho -X- _ O
 yie -X- _ O
-ndapɛn -X- _ B-DATE/TIME
-kakra -X- _ O
+ndapɛn -X- _ B-MISC
+kakra -X- _ I-MISC
 a -X- _ O
 wɔbɛba -X- _ O
 no -X- _ O
@@ -486,8 +484,8 @@ sɛ -X- _ O
 ediban -X- _ O
 mbɔho -X- _ O
 mienu -X- _ O
-dapɛn -X- _ B-DATE/TIME
-biara -X- _ O
+dapɛn -X- _ B-MISC
+biara -X- _I-MISC
 mu -X- _ O
 . -X- _ O
 
@@ -514,9 +512,9 @@ ana -X- _ O
 edi -X- _ O
 ediban -X- _ O
 bebree -X- _ O
-wɔ -X- _ B-DATE/TIME
-bere -X- _ I-DATE/TIME
-ketewa -X- _ I-DATE/TIME
+wɔ -X- _ B-D
+bere -X- _ B-MISC
+ketewa -X- _ I-MISC
 mu -X- _ O
 ? -X- _ O
 
@@ -565,7 +563,7 @@ a -X- _ O
 . -X- _ O
 
 Naaso -X- _ O
-ɔdur -X- _ O
+ɔduru -X- _ O
 ne -X- _ O
 dan -X- _ B-LOC
 mu -X- _ O
