@@ -2,7 +2,7 @@ import re
 import os
 import html
 
-file_path = "../data/raw/news2.txt"
+file_path = "../data/raw/story3.txt"
 
 def clean_text(text):
     # Unescape HTML entities (e.g., &nbsp;, &amp;)
