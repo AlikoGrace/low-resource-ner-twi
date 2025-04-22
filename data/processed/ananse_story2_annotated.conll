@@ -1,5 +1,5 @@
 Ɔhene -X- _ B-PER
-bi -X- _ O
+bi -X- _ I-PER
 tenaa -X- _ O
 ase -X- _ O
 a -X- _ O
@@ -15,15 +15,15 @@ no -X- _ O
 gyee -X- _ O
 din -X- _ O
 wɔ -X- _ O
-ne -X- _ O
-man -X- _ B-LOC
+ne -X- _ B-LOC
+man -X- _ I-LOC
 mu -X- _ O
 . -X- _ O
 
 Ɛsiane -X- _ O
 sɛ -X- _ O
 ɔhene -X- _ B-PER
-no -X- _ O
+no -X- _ I-PER
 gyee -X- _ O
 din -X- _ O
 nti -X- _ O
@@ -41,8 +41,8 @@ nso -X- _ O
 pɛ -X- _ O
 sɛ -X- _ O
 ɔhunu -X- _ O
-saa -X- _ O
-ɔhene -X- _ B-PER
+saa -X- _ B-PER
+ɔhene -X- _ I-PER
 no -X- _ O
 . -X- _ O
 
@@ -72,13 +72,13 @@ yare -X- _ O
 Ananse -X- _ B-PER
 kɔhunuu -X- _ O
 ɔhene -X- _ B-PER
-no -X- _ O
-mpanimfoɔ -X- _ B-PER
+no -X- _ I-PER
+mpanimfoɔ -X- _ O
 bi -X- _ O
 . -X- _ O
 
 Enti -X- _ O
-Nana -X- _ B-PER
+Nana -X- _ O
 soma -X- _ O
 maa -X- _ O
 wɔkɔfaa -X- _ O
@@ -91,12 +91,12 @@ Ananse -X- _ B-PER
 dɛ -X- _ O
 sɛ -X- _ O
 ɔrekɔhunu -X- _ O
-saa -X- _ O
-ɔhene -X- _ B-PER
-no -X- _ O
+saa -X- _ B-PER
+ɔhene -X- _ I-PER
+no -X- _ 
 . -X- _ O
 
-Afei -X- _ B-DATE/TIME
+Afei -X- _ O
 na -X- _ O
 Ananse -X- _ B-PER
 tumi -X- _ O
@@ -119,7 +119,7 @@ yadeɛ -X- _ O
 
 Ɔduruu -X- _ O
 ahemfie -X- _ B-LOC
-hɔ -X- _ O
+hɔ -X- _ I-LOC
 no -X- _ O
 , -X- _ O
 Nana -X- _ B-PER
@@ -142,7 +142,7 @@ akwaaba -X- _ O
 Ananse -X- _ B-PER
 : -X- _ O
 Yaa -X- _ O
-Nana -X- _ B-PER
+Nana -X- _ O
 oo -X- _ O
 . -X- _ O
 
@@ -318,7 +318,7 @@ sidi -X- _ O
 . -X- _ O
 
 Ɔhene -X- _ B-PER
-no -X- _ O
+no -X- _ I-PER
 tuaa -X- _ O
 sika -X- _ O
 no -X- _ O
@@ -333,21 +333,21 @@ Ananse -X- _ B-PER
 fitii -X- _ O
 aseɛ -X- _ O
 hwɛɛ -X- _ O
-maame -X- _ O
-no -X- _ O
+maame -X- _ B-PER
+no -X- _ I-PER
 yadeɛ -X- _ O
 . -X- _ O
 
 Na -X- _ O
 Ananse -X- _ B-PER
 hwɛ -X- _ O
-ɔhene -X- _ O
-maame -X- _ O
+ɔhene -X- _ B-PER
+maame -X- _ I-PER
 yadeɛ -X- _ O
 no -X- _ O
 wɔ -X- _ O
 ahemfie -X- _ B-LOC
-hɔ -X- _ O
+hɔ -X- _ I-LOC
 . -X- _ O
 
 Ɔsɔre -X- _ O
@@ -357,7 +357,7 @@ a -X- _ O
 na -X- _ O
 ɔkɔ -X- _ O
 ahemfie -X- _ B-LOC
-hɔ -X- _ O
+hɔ -X- _ I-LOC
 
 akɔma -X- _ O
 no -X- _ O
@@ -379,16 +379,16 @@ Da -X- _ B-DATE/TIME
 bi -X- _ I-DATE/TIME
 ɔkɔɔ -X- _ O
 ahemfie -X- _ B-LOC
-hɔ -X- _ O
+hɔ -X- _ I-LOC
 anɔpa -X- _ B-DATE/TIME
-bi -X- _ O
+bi -X- _ I-DATE/TIME
 . -X- _ O
 
 Ɔtee -X- _ O
 sɛ -X- _ O
 ɔhene -X- _ B-PER
-maame -X- _ O
-no -X- _ O
+maame -X- _ I-PER
+no -X- _ I-PER
 awu -X- _ O
 . -X- _ O
 
@@ -396,7 +396,7 @@ Asɛm -X- _ O
 no -X- _ O
 yɛɛ -X- _ O
 ɔhene -X- _ B-PER
-no -X- _ O
+no -X- _ I-PER
 ya -X- _ O
 . -X- _ O
 
@@ -417,7 +417,7 @@ na -X- _ O
 ɔnim -X- _ O
 sɛ -X- _ O
 ɔhene -X- _ B-PER
-no -X- _ O
+no -X- _ I-PER
 bɛku -X- _ O
 no -X- _ O
 . -X- _ O
@@ -477,8 +477,8 @@ akyinnye -X- _ O
 sɛ -X- _ O
 mɛtumi -X- _ O
 ahwɛ -X- _ O
-ne -X- _ O
-maame -X- _ O
+ne -X- _ B-PER
+maame -X- _ I-LOC
 yadeɛ -X- _ O
 no -X- _ O
 . -X- _ O
@@ -572,7 +572,7 @@ sɛ -X- _ O
 : -X- _ O
 “ -X- _ O
 ɛnnɛ -X- _ B-DATE/TIME
-
+ 
 nnipa -X- _ O
 bi -X- _ O
 bɛba -X- _ O
@@ -595,7 +595,7 @@ no -X- _ O
 kɔhyɛ -X- _ O
 
 ɔhene -X- _ B-PER
-no -X- _ O
+no -X- _ I-PER
 bɛka -X- _ O
 sɛ -X- _ O
 wɔnkɔku -X- _ O
@@ -627,8 +627,8 @@ ahemfie -X- _ B-LOC
 
 Ankyɛ -X- _ O
 na -X- _ O
-ɔhene -X- _ O
-no -X- _ O
+ɔhene -X- _ B-PER
+no -X- _ I-PER
 kaa -X- _ O
 sɛ -X- _ O
 : -X- _ O
@@ -645,7 +645,7 @@ awu -X- _ O
 . -X- _ O
 
 Ahemfie -X- _ B-LOC
-hɔ -X- _ O
+hɔ -X- _ I-LOC
 nso -X- _ O
 yɛɛ -X- _ O
 dinn -X- _ O
