@@ -11,7 +11,7 @@ This folder contains raw and processed data files used for building a low-resour
 
 - Only a sample of processed data is included here. The full dataset will be released separately on [Kaggle/Hugging Face] when the project is published.
 - If you are contributing or extending this dataset, please follow the annotation guidelines provided in the root `annotations_guide.md` file.
-<!-- - Approximately 300 annotated sentences are being prepared as part of this dataset. This number is sufficient to train a multilingual baseline model for low-resource language experimentation. -->
+<!-- - Approximately 400 annotated sentences are being prepared as part of this dataset. This number is sufficient to train a multilingual baseline model for low-resource language experimentation. -->
 
 ## Format
 

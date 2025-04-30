@@ -5,13 +5,13 @@ import html
 file_path = "../data/raw/news3.txt"
 
 def clean_text(text):
-    # Unescape HTML entities (e.g., &nbsp;, &amp;)
+   
     text = html.unescape(text)
     
-    # Remove HTML tags (if any)
+    
     text = re.sub(r'<[^>]+>', '', text)
     
-    # Remove weird leftover entities like “\xa0” or multiple spaces
+   
     text = text.replace('\xa0', ' ')  
     text = re.sub(r'\s+', ' ', text).strip()
 

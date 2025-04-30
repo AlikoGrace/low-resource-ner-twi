@@ -16,9 +16,9 @@ We use **five core entity types**, each with clear boundaries and culturally ada
 
 | Tag  | Entity Type   | Description                                                                |
 | ---- | ------------- | -------------------------------------------------------------------------- |
-| PER  | Person        | Names of real or fictional people. Full names or partial names.            |
+| PER  | Person        | Names of real or fictional people. Full names or referential expressions.  |
 | ORG  | Organization  | Named groups like schools, institutions, military units, political bodies. |
-| LOC  | Location      | Geographic locations: cities, towns, countries, rivers, landmarks.         |
+| LOC  | Location      | Geographic or story-specific places: cities, rivers, compounds.            |
 | DATE | Date/Time     | Specific dates or time expressions: years, months, relative times.         |
 | MISC | Miscellaneous | Named entities not covered above, e.g., cultural objects, languages.       |
 
@@ -28,92 +28,117 @@ We use **five core entity types**, each with clear boundaries and culturally ada
 
 ### PER (Person)
 
-- Include:
+- **Include:**
 
-  - First and last names: `Kwaku Ananse`, `Nana Ama`
-  - Royalty, titles, if they are used **with** a name: `Nana Osei`
-  - Fictional names: `Ananse`, `Kwaku Bonsam`
+  - Full names: `Kwaku Ananse`, `Nana Ama`
+  - Titles **with** names: `Nana Osei`, `Queen Abena`
+  - Fictional or mythological names: `Ananse`, `Kwaku Bonsam`
+  - **Context-specific referential phrases**:
+    - Noun phrases pointing to specific individuals in the story:  
+      `the king`, `his wife`, `the children’s grandmother`, `the old man`, etc.
 
-- Exclude:
-  - Generic group references like `nkↄmↄfoↄ` or `nnipa`
-  - Titles **alone**: `Nana` without a name is ignored
+- **Exclude:**
+  - Generic references to people or groups: `nnipa`, `nkɔmɔfoɔ`
+  - Titles alone without clear referents: `Nana`
+
+> ✅ _Example_:  
+> “Ɔkɔɔ **ɔhene no** nkyɛn.” → `ɔhene no` = B-PER  
+> “Ɔne **ne yere no** kɔɔ afahyɛ no.” → `ne yere no` = B-PER
+
+---
 
 ### ORG (Organization)
 
-- Include:
+- **Include:**
 
   - Named traditional units: `Asafo`, `Adɔnten`, `Benkum`
   - Schools: `Achimota School`
-  - Churches, political parties, armies: `NDC`, `Roman Catholic`
+  - Religious and political bodies: `NDC`, `Roman Catholic`
 
 - Treat traditional regiments as organizations **if** they function like structured groups.
 
+---
+
 ### LOC (Location)
 
-- Include:
+- **Include:**
 
-  - Towns, countries: `Kumasi`, `Ghana`, `Denkyira`
-  - Rivers, landmarks: `Pra River`, `Akuapem Mountains`
-  - Relative regions: `Eastern Region`, `Northern Ghana`
+  - Towns, cities, countries: `Kumasi`, `Ghana`, `Denkyira`
+  - Natural landmarks: `Pra River`, `Akuapem Mountains`
+  - Regions: `Eastern Region`, `Northern Ghana`
+  - **Specific story-based places**:
+    - `his kitchen`, `the palace`, `their compound`, etc., **only when** the reference points to a concrete, identifiable location in the story.
 
-- Exclude:
-  - Directions used generically: `nifa` (unless part of a known regional unit)
+- **Exclude:**
+  - Generic directions: `nifa`, `benkum`, unless used in a named context.
+
+> ✅ _Example_:  
+> “Ɔsan kɔɔ **ne dan no** mu.” → `ne dan no` = B-LOC  
+> “Ɔtenaa **abɔnten no** akyirikyiri.” → `abɔnten no` = B-LOC (if location is specific)
+
+---
 
 ### DATE (Date/Time)
 
-- Include:
+- **Include:**
 
-  - Specific years/dates: `1997`, `June`, `last year`, `today`, `this evening`
-  - Time periods in historical narratives: `during the festival`, `in the past`
+  - Specific years and months: `1997`, `June`, `last year`, `this evening`
+  - Story-time markers: `one day`, `during the festival`, `in the past`
 
-- Combine both **date and time** into one unified DATE tag for simplicity.
+- **Tag all time-related phrases as DATE**, even when approximate.
+
+---
 
 ### MISC (Miscellaneous)
 
-- Include:
+- **Include:**
 
   - Named languages: `Twi`, `Ewe`
-  - Ethnic/cultural labels: `Ashanti`, `Fante`
-  - Named cultural items or groups **not fitting others**: e.g. `Abɔfra`, if referring to a named group
+  - Ethnic and cultural groups: `Ashanti`, `Fante`
+  - Named cultural concepts or items **not fitting others**: e.g., `Abɔfra` (if a named group)
 
-- Use as a **fallback** when the entity doesn’t fit cleanly into the above.
+- Use this only when the entity clearly doesn’t belong to PER, ORG, LOC, or DATE.
 
 ---
 
 ## Examples
 
-| Word/Phrase    | Entity Type | Reason                          |
-| -------------- | ----------- | ------------------------------- |
-| `Kwaku Ananse` | PER         | Full name of a person/character |
-| `Asraafokuo`   | ORG         | Named traditional group         |
-| `Denkyira`     | LOC         | Town/kingdom                    |
-| `in 1997`      | DATE        | Specific year                   |
-| `Ashanti`      | MISC        | Ethnic/cultural label           |
+| Word/Phrase    | Entity Type | Reason                               |
+| -------------- | ----------- | ------------------------------------ |
+| `Kwaku Ananse` | PER         | Named character                      |
+| `ɔhene no`     | PER         | Refers to a specific king in context |
+| `ne yere no`   | PER         | Specific referent: his wife          |
+| `Asraafokuo`   | ORG         | Traditional military group           |
+| `Denkyira`     | LOC         | Geographic location                  |
+| `ne dan no`    | LOC         | Specific location in story           |
+| `ɛda koro bi`  | DATE        | Temporal marker                      |
+| `Ashanti`      | MISC        | Ethnic label                         |
 
 ---
 
 ## Edge Cases & Clarifications
 
-- **Relative Directions** (e.g., `nifa`, `benkum`) are annotated as ORG **only** if part of a named regiment or traditional unit.
-- **Colloquial time phrases** like `ɛnnɛ` (today), `nnɛ anɔpa` (this morning) → still DATE.
-- If **unsure**, leave a comment in your annotation tool and tag for review.
+- **Referential person nouns** like “the king” or “his wife” should be annotated as PER **only when** they refer to a consistent character in the narrative.
+- **Story-specific places** like “his kitchen”, “their house”, or “the palace” can be tagged LOC if they are grounded in the setting.
+- **Relative Directions** (`nifa`, `benkum`) → ORG only when used in traditional group names.
+- **Vague references** (like `ɔbarima bi`) are not annotated unless clearly identifiable.
 
 ---
 
 ## Format
 
-Annotations are saved in **CoNLL-2003 format**, with BIO tags (`B-PER`, `I-ORG`, etc.) for sequence labeling.
+Annotations follow **CoNLL-2003 format**, using BIO tagging (`B-PER`, `I-ORG`, etc.) for sequence labeling.
 
 ---
 
 ## Notes for Annotators
 
-- Be consistent: Always annotate the same name the same way across all files.
-- Don’t over-annotate: Only tag named entities, not every noun.
-- Use comments or logs if uncertain. Ambiguity is expected — it's part of the work.
+- Be consistent across files — same entity, same tag.
+- Don’t over-annotate. Focus on **named or referentially-grounded** entities.
+- Use comments for uncertain cases. Linguistic ambiguity is expected — just document it.
 
 ---
 
 ## Contributions
 
-We welcome contributions, but all annotations will be reviewed for consistency. Follow these guidelines strictly if contributing new labeled data.
+All external annotations are welcome but must follow these guidelines and will be reviewed for consistency. If contributing, **please include a changelog or comment log**.

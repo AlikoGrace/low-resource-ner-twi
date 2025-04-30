@@ -32,17 +32,14 @@ def count_entities(conll_file):
             tag = parts[-1]
             current_sentence_tags.append(tag)
 
-            # Only count B- tags as new entities
             if tag.startswith("B-"):
                 entity_type = tag[2:]
 
-                # Normalize composite tags
                 if entity_type == "DATE/TIME":
                     entity_type = "DATE"
 
                 entity_counts[entity_type] += 1
 
-    # Final sentence check (in case no trailing newline)
     if in_sentence and current_sentence_tags:
         num_sentences += 1
         if all(tag == "O" for tag in current_sentence_tags):
@@ -66,7 +63,6 @@ def count_entities(conll_file):
         warning = "⚠️" if pct < 5 and count >= 0 else ""
         print(f"{ent_type:5}: {count:4} ({pct:.2f}%) {warning}")
     
-    # Print out the percentage of 'O' tag sentences
     if num_sentences > 0:
         o_percentage = (num_o_sentences / num_sentences) * 100
         print(f" 'O' sentences as percentage of total: {o_percentage:.2f}%")
