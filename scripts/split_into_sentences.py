@@ -2,7 +2,7 @@ import re
 import os
 import html
 
-file_path = "../data/raw/news3.txt"
+file_path = "../data/raw/story5.txt"
 
 def clean_text(text):
    
