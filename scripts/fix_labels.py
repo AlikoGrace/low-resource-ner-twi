@@ -50,11 +50,13 @@ def clean_labels(filepath):
         f.write(text)
 
 
-def run_all_fixes(base_dir):
-    for file in ["train.conll", "dev.conll", "test.conll"]:
-        path = os.path.join(base_dir, file)
-        clean_labels(path)
-    print("All label fixes applied.")
+# def run_all_fixes(base_dir):
+#     for file in ["train.conll", "dev.conll", "test.conll"]:
+#         path = os.path.join(base_dir, file)
+#         clean_labels(path)
+#     print("All label fixes applied.")
 
 if __name__ == "__main__":
-    run_all_fixes("data/split")
+    clean_labels("data/processed/cleaned_combined_ner_dataset.conll")
+    print("✅ Label fixes applied to cleaned_combined_ner_dataset.conll")
+

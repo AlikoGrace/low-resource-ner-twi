@@ -177,7 +177,7 @@ kaa O
 sɛ O
 ‘Yoo.’ O
 ‘ O
-Anapa B-DATE/TIME
+Ɔbɛnem B-DATE
 bɛbɛ O
 no O
 , O
@@ -208,7 +208,8 @@ borɛde O
 a O
 ɔbɛdi O
 no O
-kyena B-DATE/TIME
+kyena
+Kwasiada B-DATE
 . O
 
 Ananse B-PER
@@ -433,9 +434,9 @@ sɛ O
 ediban O
 mbɔho O
 mienu O
-dapɛn B-DATE/TIME
-biara I-DATE/TIME
-mu I-DATE/TIME
+Benada B-DATE
+biara O
+mu O 
 . O
 
 
@@ -603,8 +604,8 @@ a O
 ɔde O
 wia O
 ediban O
-3nora B-DATE/TIME
-anadwo I-DATE/TIME
+Yawoada B-DATE
+anadwo O 
 ! O
 
 Asɛm O
@@ -613,10 +614,9 @@ ni O
 ! O
 ’ O
 
-Saa B-DATE/TIME
-da I-DATE/TIME
-no -I-DATE/TIME
-Ewia I-DATE/TIME
+Kwasiada B-DATE
+no O
+Ewia
 , O
 Anansi B-PER
 de O
@@ -741,9 +741,8 @@ nyansa O
 paa O
 . O
 
-Saa B-DATE/TIME
-da I-DATE/TIME
-no I-DATE/TIME
+Ɔbɛnem B-DATE
+dabi O
 , O
 Ananse B-PER
 si O
@@ -1078,7 +1077,7 @@ hɔ I-LOC
 . O
 
 Ɔsɔre O
-anɔpa B-DATE/TIME
+Yawoada B-DATE
 a O
 , O
 na O
@@ -1087,8 +1086,12 @@ ahemfie B-LOC
 hɔ I-LOC
 
 Ɛduru O
-anwummerɛ B-DATE/TIME
-a O
+Kitawonsa B-DATE
+da O
+a 
+ɛtɔ
+so
+num
 , O
 na O
 ɔkɔ O
@@ -1097,13 +1100,13 @@ fie I-LOC
 akɔda O
 . O
 
-Da B-DATE/TIME
-bi I-DATE/TIME
-no I-DATE/TIME
+Efiada B-DATE
+bi O
+no O 
 ɔkɔɔ O
 ahemfie B-LOC
 hɔ I-LOC
-anɔpa B-DATE/TIME
+anɔpa O 
 bi O
 . O
 
@@ -1177,7 +1180,8 @@ na O
 wo O
 ho O
 fifire O
-anɔpa B-DATE/TIME
+Benada B-DATE
+anɔpa O 
 sei O
 ? O
 
@@ -1206,7 +1210,8 @@ yadeɛ O
 no O
 . O
 
-Anɔpa B-DATE/TIME
+ɛfiada B-DATE
+Anɔpa O 
 yi O
 ara O
 mese O
@@ -1294,7 +1299,7 @@ Ntikuma B-PER
 sɛ O
 : O
 “ O
-ɛnnɛ B-DATE/TIME
+ɛnnɛ O 
 
 nnipa O
 bi O
@@ -1478,8 +1483,8 @@ yie O
 ɛfiri O
 sɛ O
 na O
-ɛberɛ B-DATE/TIME
-Bi O
+ɛbɔ B-DATE
+bosome O
 aso O
 sɛ O
 ɔkɔsra O
@@ -1488,8 +1493,8 @@ nanabaa O
 bio O
 . O
 
-Anadwo B-DATE/TIME
-no I-DATE/TIME
+Kwasiada B-DATE
+no O
 a O
 adeɛ O
 rebɛkye O
@@ -1512,8 +1517,8 @@ tenten O
 no O
 . O
 
-Anadwo B-DATE/TIME
-mu I-DATE/TIME
+Ahinime B-DATE
+mu O
 no O
 nyinaa O
 wɔdii O
@@ -1526,10 +1531,9 @@ a O
 wɔanna O
 . O
 
-Ɛda B-DATE/TIME
-no I-DATE/TIME
-anɔpatutuutu I-DATE/TIME
-no I-DATE/TIME
+ɛdwoada B-DATE
+anɔpatutuutu O 
+no O 
 , O
 wɔtenaa O
 wɔn B-PER
@@ -1703,8 +1707,8 @@ a O
 . O
 
 Ɛduruu O
-anwumerɛ B-DATE/TIME
-no I-DATE/TIME
+Ahinime B-DATE
+no O
 Odongo B-PER
 ne O
 Apiyo B-PER
@@ -1715,9 +1719,9 @@ anwumerɛ O
 aduane O
 . O
 
-Adeɛ B-DATE/TIME
-kyeeɛ I-DATE/TIME
-no I-DATE/TIME
+Adeɛ O
+kyeeɛ O
+Kwasiada B-DATE
 , O
 papa O
 gyaa O
@@ -1770,9 +1774,9 @@ wc O
 Nkoransa B-LOC
 . O
 
-Da B-DATE/TIME
-koro I-DATE/TIME
-anɔpa I-DATE/TIME
+Kitawonsa B-DATE
+bosome O
+anɔpa O
 bi O
 , O
 Odongo B-PER
@@ -1799,8 +1803,8 @@ bufuiiɛ O
 . O
 
 Ɛfiri O
-saa B-DATE/TIME
-da I-DATE/TIME
+saa O 
+Fiada B-DATE
 no O
 , O
 Odongo B-PER
@@ -1816,10 +1820,11 @@ mu O
 bio O
 . O
 
-Ɛda B-DATE/TIME
-foforɔ I-DATE/TIME
-3ba3 I-DATE/TIME
-no
+Afeha B-DATE
+2001 I-DATE
+foforɔ O 
+ɛbaɛ O 
+no O 
 , O
 mmɔfra O
 no O
@@ -1984,8 +1989,8 @@ me O
 . O
 
 Ɛduruu O
-anwumerɛ B-DATE/TIME
-no I-DATE/TIME
+Adeɛ B-DATE
+keseɛ I-DATE
 Odongo B-PER
 ne O
 Apiyo B-PER
@@ -2018,8 +2023,12 @@ wɔn O
 atenaeɛ O
 . O
 
-Dakoro B-DATE/TIME
-anɔpa I-DATE/TIME
+Ayɛwohomumɔ B-DATE
+bosome I-DATE
+wɔ I-DATE
+afe I-DATE
+1992 I-DATE
+anɔpa O 
 bi O
 , 0
 mmarimaa B-PER
@@ -2055,7 +2064,7 @@ wɔn O
 mu O
 . O
 
-Ɛberɛ O
+1992 B-DATE
 a O
 Magozwe B-PER
 awofoɔ O
@@ -2064,8 +2073,8 @@ no O
 , O
 na O
 wadi O
-mfeɛ B-DATE/TIME
-nnum I-DATE/TIME
+mfeɛ O 
+nnum O 
 pɛ O
 . O
 
@@ -2185,8 +2194,8 @@ ko O
 ntɔkwa O
 . O
 
-Dakoro B-DATE/TIME
-anopa I-DATE/TIME
+Wukuada B-DATE
+anopa O
 bi O
 a O
 Magozwe B-PER
@@ -2217,20 +2226,6 @@ kotokuo O
 mu O
 . O
 
-Ɛberɛ B-DATE/TIME
-ne O
-aberɛ O
-biara O
-ɔyi O
-nwoma O
-no O
-hwɛ O
-mfoni O
-a O
-ɛwɔ O
-mu O
-. O
-
 Ɔnnim O
 sɛdeɛ O
 yɛkenkan O
@@ -2241,30 +2236,8 @@ mu O
 no O
 . O
 
-Mfoni O
-no O
-ka O
-abarimaa O
-bi O
-a O
-ɔnyini O
-bɛyɛɛ O
-wiemhyɛnkafoɔ O
-ho O
-asɛm O
-. O
-
-Ɛyɛ O
-Magozwe B-PER
-adaeɛsoɔ O
-sɛ O
-anka O
-ɔbɛyɛ O
-wiemhyɛnkafoɔ O
-. O
-
-Ɛtɔ O
-dabi O
+Fiada B-DATE
+biara O
 a O
 , O
 na O
@@ -2283,7 +2256,7 @@ no O
 mu O
 . O
 
-Da B-DATE/TIME
+Wukuada B-DATE
 bi I-DATE/TIME
 anadwo I-DATE/TIME
 na O
@@ -2383,8 +2356,7 @@ hɔ O
 kɔeɛ O
 . O
 
-Abosome B-DATE/TIME
-nan I-DATE/TIME
+Dwoada B-DATE
 akyi O
 no O
 , O
@@ -2462,8 +2434,8 @@ no O
 mu O
 kɔgye O
 aduane O
-awia B-DATE/TIME
-nnɔndummienu I-DATE/TIME
+Yawoada B-DATE
+nnɔndummienu O 
 berɛ O
 mu O
 . O
@@ -2646,15 +2618,15 @@ Magozwe B-PER
 mpɛn O
 pii O
 kɔsii O
-3nnora B-DATE/TIME
-anadwo I-DATE/TIME
+Dwoada B-DATE
+anadwo O 
 bi o
 ɔkaa O
 sɛ O
 , O
 “Medwen O
 sɛ O
-ɛberɛ B-DATE/TIME
+ɛberɛ O 
 aso O
 sɛ O
 wokɔ O
@@ -2920,10 +2892,10 @@ de O
 Magozwe B-PER
 . O
 
-Ɛmerɛ B-DATE/TIME
-tenten O
-bi O
-a O
+Fiada B-DATE
+, I-DATE
+Kɔtɔnimaa I-DATE
+14 I-DATE
 atwa O
 mu O
 no O
@@ -2999,7 +2971,7 @@ no O
 mu O
 . O
 
-Akwasidɛɛ B-DATE/TIME
+Akwasidɛɛ B-DATE
 da O
 a O
 edi O
@@ -3040,21 +3012,21 @@ pɛpɛɛpɛyɛ O
 ho O
 . O
 
-Ԑbᴐ B-DATE/TIME
-bosome I-DATE/TIME
-no I-DATE/TIME
-da I-DATE/TIME
-a I-DATE/TIME
-εtᴐ I-DATE/TIME
-so I-DATE/TIME
-11 I-DATE/TIME
-wᴐ I-DATE/TIME
-2023 I-DATE/TIME
+Ԑbᴐ B-DATE
+bosome I-DATE
+no I-DATE
+da I-DATE
+a I-DATE
+εtᴐ I-DATE
+so I-DATE
+11 I-DATE
+wᴐ I-DATE
+2023 I-DATE
 mu O
 a O
 na O
 εyε O
-Dwoada B-DATE/TIME
+Dwoada B-DATE
 no O
 , O
 Denkyira B-LOC
@@ -3241,8 +3213,8 @@ ahyeε O
 so O
 . O
 
-Afe B-DATE/TIME
-1820 I-DATE/TIME
+Afe B-DATE
+1820 I-DATE
 mu O
 hᴐ O
 no O
@@ -3494,7 +3466,7 @@ ayε O
 adwuma O
 . O
 
-Mprempren B-DATE/TIME
+Memeneda B-DATE
 yi O
 , O
 ᴐno O
@@ -3761,10 +3733,10 @@ Wɔwoo O
 Owura B-PER
 Akwasi I-PER
 Boadi I-PER
-Obubuo B-DATE/TIME
-18 I-DATE/TIME
-, I-DATE/TIME
-1962 I-DATE/TIME
+Obubuo B-DATE
+18 I-DATE
+, I-DATE
+1962 I-DATE
 wɔ O
 Asante B-LOC
 mantam I-LOC
@@ -3799,8 +3771,8 @@ mu O
 , O
 ɛnna O
 ɔwiee O
-afe B-DATE/TIME
-1979 I-DATE/TIME
+afe B-DATE
+1979 I-DATE
 mu O
 . O
 
@@ -3989,7 +3961,7 @@ pa O
 ara O
 . O
 
-Ɛnnɛ B-DATE/TIME
+Ɛnnɛ O
 , O
 sɛ O
 yɛrebu O
@@ -4034,7 +4006,7 @@ ho O
 
 Ɛde O
 rebɛsi O
-ɛnnɛ B-DATE/TIME
+Yawoada B-DATE
 yi O
 nyinaa O
 , O
@@ -4152,10 +4124,10 @@ atom O
 sɛ O
 , O
 ɛfiri O
-tete B-DATE/TIME
+Ɔbɛnem B-DATE
 de O
 bɛsi O
-ɛnnɛ B-DATE/TIME
+Ɔgyefuo B-DATE
 yi O
 nyinaa O
 , O
@@ -4206,7 +4178,7 @@ no O
 mu O
 . O
 
-Ɛnnɛ B-DATE/TIME
+Ɛnnɛ O 
 , O
 n’akatua O
 a O
@@ -4225,19 +4197,6 @@ no O
 deɛ O
 so O
 bebree O
-. O
-
-Ɛba O
-no O
-din O
-nso O
-a O
-, O
-wagye O
-bi O
-wɔ O
-wiase O
-nyinaa O
 . O
 
 Ɛfiri O
@@ -4470,10 +4429,10 @@ Ghanani O
 a O
 wɔwoo O
 no O
-Kitawonsa B-DATE/TIME
-19 I-DATE/TIME
-, I-DATE/TIME
-1958 I-DATE/TIME
+Kitawonsa B-DATE
+19 I-DATE
+, I-DATE
+1958 I-DATE
 mu O
 wɔ O
 Nkran B-LOC
@@ -4524,7 +4483,7 @@ berɛ O
 a O
 na O
 wadi O
-mfeɛ B-DATE/TIME
+mfeɛ O
 15 O
 pɛ O
 . O
@@ -4536,8 +4495,8 @@ yi O
 ase O
 no O
 , O
-afe B-DATE/TIME
-1976 I-DATE/TIME
+afe B-DATE
+1976 I-DATE
 mu O
 na O
 ɔgyee O
@@ -4547,8 +4506,8 @@ wɔ O
 Ghana B-LOC
 . O
 
-Afe B-DATE/TIME
-1978 I-DATE/TIME
+Afe B-DATE
+1978 I-DATE
 mu O
 no O
 , O
@@ -4667,8 +4626,8 @@ w’adeɛ O
 so O
 nti O
 , O
-afe B-DATE/TIME
-1979 I-DATE/TIME
+afe B-DATE
+1979 I-DATE
 mu O
 no O
 , O
@@ -4687,8 +4646,8 @@ London B-LOC
 Ɛngresi B-LOC
 . O
 
-Afe B-DATE/TIME
-1980 I-DATE/TIME
+Afe B-DATE
+1980 I-DATE
 mu O
 no O
 , O
@@ -4750,7 +4709,7 @@ wiase O
 baabiara O
 . O
 
-1981 B-DATE/TIME
+1981 B-DATE
 mu O
 no O
 , O
@@ -4773,7 +4732,7 @@ kɔyɛɛ O
 adwuma O
 . O
 
-1982 B-DATE/TIME
+1982 B-DATE
 mu O
 no O
 , O
@@ -4840,7 +4799,7 @@ afiri O
 ne O
 nsam O
 wɔ O
-1984 B-DATE/TIME
+1984 B-DATE
 mu O
 . O
 
@@ -4872,7 +4831,7 @@ WBC O
 Supa O
 Fɛdaweit O
 wɔ O
-1985 B-DATE/TIME
+1985 B-DATE
 mu O
 . O
 
@@ -4912,7 +4871,7 @@ firii O
 ne O
 nsam O
 wɔ O
-1988 B-DATE/TIME
+1988 B-DATE
 mu O
 . O
 
@@ -5057,8 +5016,8 @@ nyinaa O
 mu O
 . O
 
-Afe B-DATE/TIME
-2019 I-DATE/TIME
+Afe
+2019 B-DATE
 mu O
 no O
 , O
@@ -5082,7 +5041,7 @@ so O
 
 Ɛde O
 bɛsi O
-ɛnnɛ B-DATE/TIME
+ɛbc B-DATE
 nyinaa O
 , O
 ɛsiane O
@@ -5298,7 +5257,7 @@ ho O
 pa O
 ara O
 ne O
-Akwasidɛɛ B-DATE/TIME
+Akwasidɛɛ B-DATE
 . O
 
 Yei O
@@ -5521,8 +5480,9 @@ nyinaa O
 aduane O
 . O
 
-Afahyɛ MISC
-berɛ O-DATE/TIME
+Afahyɛ O 
+berɛ O 
+2010 B-DATE
 no O
 , O
 wɔkyekyɛ O
@@ -5581,8 +5541,9 @@ din O
 wɔ O
 wiase O
 nyinaa O
-no.Ɛduru O
-Akwasidɛɛ O
+no O 
+Ɛduru O
+Akwasidɛɛ B-LOC
 a O
 , O
 Akanfoɔ O
@@ -5592,12 +5553,12 @@ wo O
 Adɛɛ O
 Tɔkye” O
 
-Afeha B-DATE/TIME
-a I-DATE/TIME
-ɛtɔ I-DATE/TIME
-so I-DATE/TIME
-aduonu I-DATE/TIME
-baako I-DATE/TIME
+Afeha B-DATE
+a I-DATE
+ɛtɔ I-DATE
+so I-DATE
+aduonu I-DATE
+baako I-DATE
 yi O
 mu O
 deɛ O
@@ -5652,8 +5613,8 @@ nyinaa O
 Nanso O
 , O
 ɛfiri O
-afe B-DATE/TIME
-2019 I-DATE/TIME
+afe O 
+2019 I-DATE
 mu O
 reba O
 no O
@@ -5705,34 +5666,14 @@ ne O
 Niger B-LOC
 . O
 
-Aman O
-yinom O
-so O
-no O
-, O
-asraafoɔ O
-no O
-afa O
-kwan O
-bi O
-so O
-agye O
-tumi O
-afiri O
-wɔn O
-aban O
-no O
-nsam O
-. O
-
 Ɛno O
 nti O
 , O
-asraafoɔ B-ORG
+asraafoɔ O 
 mpanimfoɔ O
 a O
 wɔda O
-saa O
+GES ORG
 ɛdɔm O
 yinom O
 ano O
@@ -5758,30 +5699,6 @@ a O
 asomdwoeɛ O
 anaa O
 ahotɔ O
-. O
-
-Nanso O
-, O
-ɛsiane O
-nneɛma O
-binom O
-a O
-asraafoɔ B-ORG
-yinom O
-susu O
-sɛ O
-antwa O
-yie O
-nti O
-, O
-wɔde O
-tumi O
-ahyɛ O
-wɔn O
-nsam O
-rebu O
-wɔn O
-man O
 . O
 
 Ɛwom O
@@ -5815,7 +5732,7 @@ nwie O
 pɛyɛ O
 . O
 
-Berɛ B-DATE/TIME
+Berɛ O 
 a O
 asraafoɔ O
 yinom O
@@ -5854,7 +5771,7 @@ yi O
 nanso O
 ɛde O
 rebɛsi O
-ɛnnɛ B-DATE/TIME
+ɛnnɛ O 
 yi O
 nyinaa O
 , O
@@ -5894,12 +5811,12 @@ no O
 . O
 
 Me O
-fr33 O
+frɛɛ O
 Zoomlion B-ORG
 Ghana I-ORG
 Limited I-ORG
-3maa O
-wcb3faa O
+ɛmaa O
+wcbɛfaa O
 nwura O 
 no O
 . O
@@ -6047,7 +5964,7 @@ wɔde O
 sika O
 gu O
 wcn O
-asoe3 O
+asoeɛ O
 . O
 
 Yei O
@@ -6413,7 +6330,7 @@ sɛdeɛ O
 ɛteɛ O
 biara O
 , O
-ɛnnɛ B-DATE/TIME
+ɛnnɛ O 
 adesua O
 yi O
 bɛboa O
@@ -6429,16 +6346,16 @@ Jerry B-PER
 John I-PER
 Rawlings I-PER
 , O
-Ayɛwohomumɔ B-DATE/TIME
-22 I-DATE/TIME
-, I-DATE/TIME
-1947 I-DATE/TIME
+Ayɛwohomumɔ B-DATE
+22 I-DATE
+, I-DATE
+1947 I-DATE
 mu O
 . O
 
 Ɛfiri O
-afe B-DATE/TIME
-1970 I-DATE/TIME
+afe O 
+1970 B-DATE
 mu O
 hɔ O
 reba O
@@ -6462,8 +6379,8 @@ bɛdii O
 ɔman O
 no O
 so O
-afe B-DATE/TIME
-1979 I-DATE/TIME
+afe O 
+1979 B-DATE
 mu O
 , O
 ɛnna O
@@ -6471,13 +6388,13 @@ mu O
 bɛyɛɛ O
 ɔmampanin O
 firi O
-1981 B-DATE/TIME
-kɔsi I-DATE/TIME
-2000 I-DATE/TIME
+1981 B-DATE
+kɔsi O
+2000 B-DATE
 . O
 
 Saa O
-mmerɛ B-DATE/TIME
+mmerɛ O 
 yinom O
 nyinaa O
 mu O
@@ -6489,7 +6406,7 @@ sɛdeɛ O
 onipa O
 biara O
 bu O
-Rawlings O
+Rawlings B-PER
 wɔ O
 Ghana B-LOC
 ɛfiri O
@@ -6539,12 +6456,12 @@ amanyɔsɛm O
 mu O
 wɔ O
 afe O
-1979 B-DATE/TIME
-mu I-DATE/TIME
+1979 B-DATE
+mu I-DATE
 . O
 
 Saa O
-berɛ B-DATE/TIME
+berɛ B-DATE
 no O
 , O
 na O
@@ -6634,10 +6551,10 @@ ekuo O
 yi O
 nsam O
 wɔ O
-Kɔtɔnima B-DATE/TIME
-15 I-DATE/TIME
-, I-DATE/TIME
-1979 I-DATE/TIME
+Kɔtɔnima B-DATE
+15 I-DATE
+, I-DATE
+1979 I-DATE
 mu O
 no O
 anyɛ O
@@ -6661,7 +6578,7 @@ no O
 atɛn O
 . O
 
-Berɛ B-DATE/TIME
+Berɛ O
 a O
 ɔno O
 nso O
@@ -6717,10 +6634,10 @@ akyi O
 Ɛno O
 nti O
 , O
-Ayɛwohomumɔ B-DATE/TIME
-4 I-DATE/TIME
-, I-DATE/TIME
-1979 I-DATE/TIME
+Ayɛwohomumɔ B-DATE
+4 I-DATE
+, I-DATE
+1979 I-DATE
 mu O
 no O
 , O
@@ -6767,7 +6684,7 @@ Foforɔ I-ORG
 Badwa I-ORG
 . O
 
-Berɛ B-DATE/TIME
+Berɛ O 
 a O
 Rawlings B-PER
 ne O
@@ -6816,27 +6733,6 @@ mpanimfoɔ O
 binom O
 ka O
 ho O
-. O
-
-Ɛno O
-ne O
-berɛ B-DATE/TIME
-a O
-ɛdi O
-kan O
-a O
-na O
-wɔakum O
-aman O
-mpanimfoɔ O
-binom O
-a O
-wɔadi O
-bɔne O
-wɔ O
-ɔman O
-no O
-mu O
 . O
 
 Nnipa O
@@ -6993,7 +6889,7 @@ sɛ O
 ɔmampanin O
 . O
 
-Berɛ B-DATE/TIME
+Berɛ O 
 a O
 Hilla B-PER
 Limann I-PER
@@ -7101,12 +6997,12 @@ ani O
 agye O
 . O
 
-Berɛ B-DATE/TIME
-a O
+Berɛ O 
+a O 
 Rawlings B-PER
 hunuu O
 sɛ O
-afei B-DATE/TIME
+afei O
 deɛ O
 ɔne O
 AFRC B-ORG
@@ -7175,7 +7071,7 @@ akyi O
 Yei O
 nti O
 , O
-berɛ B-DATE/TIME
+berɛ O 
 a O
 ɛbɛdaa O
 adi O
@@ -7198,10 +7094,10 @@ ho O
 pɔ O
 . O
 
-Ɔpɛnima B-DATE/TIME
-31 I-DATE/TIME
-, I-DATE/TIME
-1981 I-DATE/TIME
+Ɔpɛnima B-DATE
+31 I-DATE
+, I-DATE
+1981 I-DATE
 mu O
 no O
 , O
@@ -7256,7 +7152,7 @@ nsɛm O
 a O
 ɔkaa O
 no O
-1979 B-DATE/TIME
+1979 B-DATE
 mu O
 no O
 bio O
@@ -7762,12 +7658,12 @@ yɛn O
 so O
 . O
 
-Afeha B-DATE/TIME
-a I-DATE/TIME
-ɛtɔ I-DATE/TIME
-so I-DATE/TIME
-aduonu I-DATE/TIME
-baako I-DATE/TIME
+Afeha B-DATE
+a I-DATE
+ɛtɔ I-DATE
+so I-DATE
+aduonu I-DATE
+baako I-DATE
 yi O
 mu O
 deɛ O
@@ -7856,8 +7752,8 @@ nyinaa O
 Nanso O
 , O
 ɛfiri O
-afe B-DATE/TIME
-2019 I-DATE/TIME
+afe O 
+2019 I-DATE
 mu O
 reba O
 no O
@@ -8062,19 +7958,7 @@ no O
 so O
 . O
 
-Akansie O
-yi O
-deɛ O
-, O
-wɔamma O
-kwan O
-amma O
-akyitaafoɔ O
-ammɛhwɛ O
-bi O
-. O
-
-Mfitiaseɛ B-DATE/TIME
+Mfitiaseɛ O 
 no O
 , O
 wɔyɛɛ O
@@ -8089,7 +7973,7 @@ nanso O
 aka O
 kakra O
 ama O
-akansie B_MISC
+akansie
 yi O
 aduru O
 so O
@@ -8102,14 +7986,14 @@ baa O
 sɛ O
 wɔremmɔ O
 no O
-Memeneda B-DATE/TIME
+Memeneda B-DATE
 bio O
 , O
 na O
 mmom O
 wɔmmɔ O
 no O
-Dwoada B-DATE/TIME
+Dwoada B-DATE
 . O
 
 Yei O
@@ -8200,8 +8084,8 @@ mu O
 . O
 
 Bɛyɛ O
-abosome B-DATE/TIME
-mmienu I-DATE/TIME
+abosome B-DATE
+mmienu I-DATE
 nie O
 na O
 Ghana B-LOC
@@ -8257,13 +8141,13 @@ wɔɔ O
 Ɛno O
 nti O
 , O
-ɛnnɛ B-DATE/TIME
-Benada I-DATE/TIME
-, I-DATE/TIME
-Ahinime I-DATE/TIME
-25 I-DATE/TIME
-, I-DATE/TIME
-2022 I-DATE/TIME
+ɛnnɛ O
+Benada B-DATE
+, I-DATE
+Ahinime I-DATE
+25 I-DATE
+, I-DATE
+2022 I-DATE
 yi O
 na O
 mmarabadwafoɔ B-ORG
@@ -8396,44 +8280,6 @@ a O
 saa O
 . O
 
-Mmarahyɛbadwafoɔ B-ORG
-no O
-nso O
-deɛ O
-, O
-deɛ O
-wɔreka O
-ara O
-ne O
-sɛ O
-ɛnyɛ O
-sɛ O
-wɔretu O
-saa O
-anamɔn O
-yi O
-sɛdeɛ O
-wɔbɛsɔ O
-obi O
-ani O
-wɔ O
-ɔman O
-no O
-mu O
-na O
-mmom O
-, O
-ɛyɛ O
-ɔman O
-no O
-nkɔsoɔ O
-ne O
-ne O
-yiedie O
-na O
-wɔrepere O
-. O
-
 Saa O
 ara O
 na O
@@ -8510,80 +8356,6 @@ atwaeɛ O
 biara O
 . O
 
-Akyerɛkyerɛfoɔ O
-a O
-wɔhwɛɛ O
-nsɔhwɛ O
-no O
-soɔ O
-no O
-de O
-mmara O
-ketee O
-yɛɛ O
-adwuma O
-ara O
-ma O
-ɛbɔɔ O
-awia B-DATE/TIME
-1:30 I-DATE/TIME
-ara O
-pɛ O
-na O
-wɔtotoo O
-adan O
-a O
-na O
-wɔretwerɛ O
-nsɔhwɛ O
-no O
-wɔ O
-mu O
-no O
-apono O
-mu O
-. O
-
-Nhyehyɛeɛ O
-a O
-na O
-ɛwɔ O
-hɔ O
-ne O
-sɛ O
-, O
-na O
-ɛsɛ O
-sɛ O
-wɔhyɛ O
-Akontaabuo O
-nsɔhwɛ O
-no O
-ase O
-awia O
-dɔnko B-DATE/TIME
-pɛpɛɛpɛ O
-, O
-nanso O
-ɛbɔɔ O
-awia B-DATE/TIME
-dɔnko I-DATE/TIME
-mpaemu I-DATE/TIME
-no O
-, O
-na O
-asuafoɔ O
-yinom O
-binom O
-da O
-so O
-ara O
-nenam O
-a O
-wɔntenaa O
-ase O
-. O
-
 Ɛsiane O
 sɛ O
 na O
@@ -8602,8 +8374,8 @@ nsɔhwɛ O
 no O
 ase O
 a O
-simma B-DATE/TIME
-aduasa I-DATE/TIME
+simma O 
+aduasa O
 akyi O
 ɛsɛ O
 sɛ O
@@ -8622,8 +8394,8 @@ mu O
 nti O
 , O
 ɛbɔɔ O
-awia B-DATE/TIME
-1:30 I-DATE/TIME
+awia O
+1:30 O
 ara O
 pɛ O
 na O
@@ -8747,15 +8519,15 @@ no O
 Ebenezer B-PER
 Ako-Adjei I-PER
 ( O
-Ayɛwohomumɔ B-DATE/TIME
-17 I-DATE/TIME
-, I-DATE/TIME
-1916 I-DATE/TIME
-– I-DATE/TIME
-Ɔpɛpɔn I-DATE/TIME
-14 I-DATE/TIME
-, I-DATE/TIME
-2002 I-DATE/TIME
+Ayɛwohomumɔ B-DATE
+17 I-DATE
+, I-DATE
+1916 I-DATE
+– I-DATE
+Ɔpɛpɔn I-DATE
+14 I-DATE
+, I-DATE
+2002 I-DATE
 ) O
 yɛ O
 Ghana B-LOC
@@ -8963,14 +8735,15 @@ mu O
 nhyehyɛeɛ O
 ne O
 atɛntenenee O
-so.Afe B-DATE/TIME
-1961 I-DATE/TIME
+so
+
+Afe B-DATE
+1961 I-DATE
 mu O
 no O
 , O
 Dr O
 . O
-
 Ebenezer B-PER
 Ako-Adjei I-PER
 sane O
@@ -8980,7 +8753,7 @@ a O
 ɔdi O
 kan O
 wɔ O
-Ghana O
+Ghana B-LOC
 abakɔsɛm O
 mu O
 a O
@@ -9016,10 +8789,10 @@ Deɛ O
 ne O
 sɛ O
 , O
-Kitawonsa B-DATE/TIME
-31 I-DATE/TIME
-, I-DATE/TIME
-1962 I-DATE/TIME
+Kitawonsa B-DATE
+31 I-DATE
+, I-DATE
+1962 I-DATE
 mu O
 no O
 , O
@@ -9058,8 +8831,8 @@ resan O
 aba O
 Ghana B-LOC
 wɔ O
-Ɔsannaa B-DATE/TIME
-1 I-DATE/TIME
+Ɔsannaa B-DATE
+1 I-DATE
 mu O
 no O
 , O
@@ -9157,10 +8930,10 @@ rema O
 ɔkasa O
 wɔ O
 mmarahyɛbadwafie O
-Ɛbɔ B-DATE/TIME
-6 I-DATE/TIME
-, I-DATE/TIME
-1962 I-DATE/TIME
+Ɛbɔ B-DATE
+6 I-DATE
+, I-DATE
+1962 I-DATE
 mu O
 no O
 , O
@@ -9247,7 +9020,7 @@ mpo.”Wɔyii O
 no O
 firii O
 afiase O
-1966 B-DATE/TIME
+1966 B-DATE
 mu O
 no O
 , O
@@ -9272,7 +9045,7 @@ no O
 bio O
 . O
 
-1992 B-DATE/TIME
+1992 B-DATE
 mu O
 no O
 , O
@@ -9288,7 +9061,7 @@ Grant I-PER
 ho O
 . O
 
-1977 B-DATE/TIME
+1977 B-DATE
 mu O
 no O
 , O
@@ -9329,10 +9102,10 @@ nyaa O
 faahodie O
 no O
 nti O
-Ɔpɛpɔn B-DATE/TIME
-14 I-DATE/TIME
-, I-DATE/TIME
-2002 I-DATE/TIME
+Ɔpɛpɔn B-DATE
+14 I-DATE
+, I-DATE
+2002 I-DATE
 mu O
 no O
 , O
@@ -9344,9 +9117,9 @@ Dr O
 
 Ebenezer B-PER
 Ako-Adjei I-PER
-berɛ B-DATE/TIME
-tiawa I-DATE/TIME
-bi I-DATE/TIME
+berɛ O 
+tiawa O 
+bi O
 maa O
 no O
 nam O
@@ -9366,8 +9139,8 @@ mu O
 . O
 
 Ɔdii O
-mfeɛ B-DATE/TIME
-85 I-DATE/TIME
+mfeɛ O 
+85 O 
 , O
 ɛnna O
 ɔgyaa O
@@ -9489,12 +9262,12 @@ kaa O
 mu O
 baa O
 Nkran B-LOC
-Yawoada B-DATE/TIME
-, I-DATE/TIME
-Ɛbɔ I-DATE/TIME
-15 I-DATE/TIME
-, I-DATE/TIME
-2022.Berɛ I-DATE/TIME
+Yawoada B-DATE
+, I-DATE
+Ɛbɔ I-DATE
+15 I-DATE
+, I-DATE
+2022 I-DATE
 a O
 Onimuonyamfoɔ O
 George B-PER
@@ -9749,12 +9522,12 @@ no O
 ho O
 bɛto O
 dwa O
-Kwasiada B-DATE/TIME
-, I-DATE/TIME
-Ahinime I-DATE/TIME
-30 I-DATE/TIME
-, I-DATE/TIME
-2022.Ɛno I-DATE/TIME
+Kwasiada B-DATE
+, I-DATE
+Ahinime I-DATE
+30 I-DATE
+, I-DATE
+2022.Ɛno I-DATE
 da O
 nkyɛn O
 a O
@@ -9976,10 +9749,10 @@ annto O
 mu O
 . O
 
-Da B-DATE/TIME
-korO I-DATE/TIME
-Anadwo I-DATE/TIME
-bi I-DATE/TIME
+Yawda B-DATE
+kor O
+Anadwo O 
+bi O 
 , O
 Ananse B-PER
 sraa O
@@ -10181,8 +9954,8 @@ Anansi O
 enae O
 eye O
 nwotwe O
-Bere B-DATE/TIME
-bi I-DATE/TIME
+Bere O
+bi O
 a O
 abɛtwa O
 mu O
@@ -10251,12 +10024,12 @@ kura B-PER
 no O
 . O
 
-Dwoada-B-DATE/TIME
-Ewiabere I-DATE/TIME
+Dwoada B-DATE
+Ewiabere O 
 bi
 a O
 nna O
-bere B-DATE/TIME
+bere O 
 aso O
 sɛ O
 ɔbɛkɔ O
@@ -10493,23 +10266,6 @@ sɛ O
 bɔne O
 . O
 
-Nti O
-seisei B-DATE/TIME
-ara I-DATE/TIME
-no I-DATE/TIME
-, O
-akrɔma O
-no O
-so O
-bɛwe O
-no O
-efiri O
-noara O
-ne O
-nhyehyɛe O
-bɔne O
-. O
-
 ‘Mma O
 nntu O
 mona O
@@ -10529,8 +10285,12 @@ bɛtumi O
 atɔ O
 mu. O
 ' O
-Berԑ B-DATE/TIME
-tenten O
+
+Ayɛwohomumɔ B-DATE
+bosome I-DATE
+wɔ I-DATE
+afe I-DATE
+1920 I-DATE
 bi O
 a O
 atwam O
@@ -10599,8 +10359,8 @@ mpataku O
 ԑna O
 amamfoͻ O
 se O
-3bc B-DATE/TIME
-bosome I-DATE/TIME
+ɛbc B-DATE
+bosome O
 no O
 gyina O
 biara O
@@ -10690,15 +10450,6 @@ no O
 ho O
 . O
 
-Mfeԑ B-DATE/TIME
-nsia I-DATE/TIME
-bԑtwaam O
-a O
-bͻne O
-biara O
-ansi O
-. O
-
 Filipe B-PER
 nyinii O
 bԑyԑԑ O
@@ -10742,7 +10493,7 @@ nyԑ O
 pԑ O
 . O
 
-Berԑ B-DATE/TIME
+Wukuada B-DATE
 biara O
 a O
 Filipe B-PER
@@ -10770,8 +10521,8 @@ a O
 no O
 , O
 ԑnna O
-berԑ B-DATE/TIME
-biara I-DATE/TIME
+berԑ O
+biara O
 na O
 wͻde O
 hu O
@@ -10795,10 +10546,10 @@ nni O
 agorͻ O
 ԑnna O
 sԑ O
-bosome B-DATE/TIME
-no I-DATE/TIME
-gyina I-DATE/TIME
-a I-DATE/TIME
+kotonima B-DATE
+Bosome O
+gyina O
+a O
 , O
 wͻmma O
 no O
@@ -10868,8 +10619,8 @@ atu O
 mmirika O
 . O
 
-Mfeԑ B-DATE/TIME
-du I-DATE/TIME
+Mfeԑ B-DATE
+2010 I-DATE
 akyi O
 no O
 , O
@@ -10903,10 +10654,10 @@ so O
 . O
 
 
-Cgyefoc B-DATE/TIME
-bosome I-DATE/TIME
+Cgyefoc B-DATE
+bosome I-DATE
 no O
-aky O
+akyi O
 , O
 ne B-PER
 maame I-PER
@@ -10931,11 +10682,11 @@ sԑ O
 bԑn O
 ? O
 ’ O
-‘W’awoda B-DATE/TIME
-a I-DATE/TIME
-ԑtͻ I-DATE/TIME
-so I-DATE/TIME
-dunnum I-DATE/TIME
+‘W’awoda B-DATE
+a I-DATE
+ԑtͻ I-DATE
+so I-DATE
+dunnum I-DATE
 so O
 no O
 , O
@@ -10978,13 +10729,13 @@ no O
 nti O
 . O
 
-N’awoda B-DATE/TIME
-a I-DATE/TIME
-ԑtͻ I-DATE/TIME
-so I-DATE/TIME
-dunnum I-DATE/TIME
+Bosome B-DATE
+a I-DATE
+ԑtͻ I-DATE
+so I-DATE
+dunnum I-DATE
 no O
-anwummerԑ B-DATE/TIME
+anwummerԑ O
 duruiԑ O
 no O
 , O
@@ -11369,7 +11120,7 @@ anigyeԑ O
 mu O
 . O
 
-Berԑ B-DATE/TIME
+Fiada B-DATE
 bi O
 a O
 atwam O
@@ -11388,7 +11139,7 @@ Ma B-PER
 Liang I-PER
 . O
 
-Anadwo B-DATE/TIME
+Wukuada B-DATE
 bi O
 , O
 ͻsoo O
@@ -11412,10 +11163,10 @@ ahiafoͻ O
 Nkran B-LOC
 . O
 
-Firi B-DATE/TIME
-saa I-DATE/TIME
-da I-DATE/TIME
-no I-DATE/TIME
+Firi O
+saa O
+Yawoada B-DATE
+no O
 rekͻ O
 , O
 berԑ O
@@ -11591,7 +11342,7 @@ hͻ I-LOC
 bio O
 . O
 
-Kwasiada B-DATE/TIME
+Kwasiada B-DATE
 no O
 akyi O
 no O
@@ -11705,9 +11456,9 @@ kyɛn O
 no O
 . O
 
-Cpepcn B-DATE/TIME
-da I-DATE/TIME
-baako I-DATE/TIME
+Cpepcn B-DATE
+da I-DATE
+baako I-DATE
 akyi O
 , O
 hembabaa O
@@ -11725,7 +11476,8 @@ bio O
 . O
 
 Ԑduruu O
-ahamakye B-DATE/TIME
+kotonima B-DATE
+bosome O
 no O
 , O
 pataku O
@@ -11740,34 +11492,8 @@ no O
 mu O
 . O
 
-Pataku O
-Nitefoͻ O
-no O
-ne O
-N’akwan O
-Berԑ B-DATE/TIME
-bi O
-atwam O
-, O
-na O
-pataku O
-bi O
-wͻ O
-hͻ O
-, O
-na O
-n’ani O
-ate O
-sԑdeԑ O
-mpataku O
-ani O
-ate O
-no O
-ara O
-. O
-
 Ԑduruu O
-ahamakye B-DATE/TIME
+Fiada B-DATE
 no O
 , O
 pataku O
@@ -12085,7 +11811,7 @@ yԑ O
 anika O
 . O
 
-Ԑbͻ B-DATE/TIME
+Ԑbͻ B-DATE
 duruiԑ O
 a O
 nnua O
@@ -12115,8 +11841,8 @@ Na O
 Koo B-PER
 Nimo I-PER
 adi O
-mfeԑ B-DATE/TIME
-nson I-DATE/TIME
+mfeԑ O
+nson O
 nti O
 na O
 ͻrebԑkͻ O
@@ -12176,11 +11902,11 @@ korͻ O
 no O
 ara O
 mu O
-anadwo B-DATE/TIME
+anadwo O 
 no O
 . O
 
-Ahamakye B-DATE/TIME
+Dwoada B-DATE
 no O
 , O
 wͻn O
@@ -12188,12 +11914,8 @@ baanu O
 sͻreeԑ O
 . O
 
-berԑtia B-DATE/TIME
-bi O
-mu O
-. O
 
-Anadwo B-DATE/TIME
+Fiada B-DATE
 no O
 nyinaa O
 , O
@@ -12217,23 +11939,9 @@ no O
 awe O
 . O
 
-* O
-Anͻpa B-DATE/TIME
-no I-DATE/TIME
-, O
-Wansane O
-ka O
-kyerԑԑ O
-Sebͻ O
-sԑ O
-: O
-‘Sͻ O
-gya O
-. O
-
-Da B-DATE/TIME
-koro I-DATE/TIME
-anadwo I-DATE/TIME
+Wukuada B-DATE
+koro O
+anadwo O
 bi O
 , O
 sakraman O
@@ -12252,10 +11960,14 @@ sԑ O
 , O
 ‘Owurayere O
 Abobͻnnua B-PER
-ͻkyena B-DATE/TIME
+ͻkyena O
 bra O
-prԑmotoberԑ.’ B-DATE/TIME
-Abobͻnnua O
+Ahinime B-DATE
+da I-DATE
+a I-DATE
+tɔ I-DATE
+so I-DATE
+01 I-DATE
 no O
 ani O
 gyeeԑ O
@@ -12295,8 +12007,8 @@ sԑ O
 ‘Owura O
 Sakraman B-PER
 , O
-ͻkyena B-DATE/TIME
-prԑmotoberԑ I-DATE/TIME
+ͻkyena O
+Fiada B-DATE
 ԑyԑ O
 a O
 bra.’ O
@@ -12315,13 +12027,16 @@ ani O
 gyeeԑ O
 . O
 
-Adeԑ B-DATE/TIME
-kyeeԑ I-DATE/TIME
-no I-DATE/TIME
+Ahinime B-DATE
+da I-DATE
+a I-DATE
+tɔ I-DATE
+so I-DATE
+30 I-DATE
 , O
-awia B-DATE/TIME
-ketee I-DATE/TIME
-dummienu I-DATE/TIME
+Memeneda B-DATE
+ketee O
+dummienu O
 pԑpԑԑpԑ O
 na O
 ͻsi O
@@ -12438,9 +12153,9 @@ behwɛɛ O
 no O
 . O
 
-Ɛbɔɔ O
-anwummerɛ B-DATE/TIME
-nnɔnnnum I-DATE/TIME
+Kwasiada B-DATE
+anwummerɛ O
+nnɔnnnum O 
 no O
 , O
 na O
@@ -12516,8 +12231,8 @@ wɔm O
 baanu O
 na O
 ɛbɛyɛ O
-simma B-DATE/TIME
-aduasa I-DATE/TIME
+simma O
+aduasa O
 akyi O
 no O
 mehunuu O
@@ -12614,7 +12329,7 @@ wura O
 . O
 
 Ɛduruu O
-anadwo B-DATE/TIME
+Fiada B-DATE
 a O
 Kofi B-PER
 wiaa O
@@ -12632,19 +12347,7 @@ wɔkɔdoaa O
 no O
 . O
 
-N’asɔoden O
-nti O
-w’ode O
-no O
-too O
-kuku B-LOC
-mu I-LOC
-ma O
-adeɛ B-DATE/TIME
-kyɛɛɛ I-DATE/TIME
-. O
-
-Dwoada B-DATE/TIME
+Dwoada B-DATE
 rebɛkyɛɛ O
 ma O
 wode O
@@ -12732,8 +12435,8 @@ baae O
 
 N’ahyiyɛ O
 akyi O
-bosome B-DATE/TIME
-baako I-DATE/TIME
+bosome O
+baako O
 a O
 Mframa B-PER
 buee O
@@ -12761,7 +12464,7 @@ wɔanhunu O
 deɛ O
 ɔyɛɛ O
 a O
-mpofirim B-DATE/TIME
+mpofirim O 
 ara O
 ɔbɛyɛɛ O
 sikani O
@@ -12771,7 +12474,7 @@ no O
 
 Ɔda O
 hɔ O
-anadwo B-DATE/TIME
+Benada B-DATE
 no O
 , O
 adwene O
@@ -12786,7 +12489,7 @@ kua O
 enti O
 adeɛ O
 kyɛɛ O
-anɔpa B-DATE/TIME
+anɔpa O 
 no O
 ɔsɛee O
 ne O
@@ -12804,7 +12507,7 @@ fukwan O
 so O
 . O
 
-Kwasiada B-DATE/TIME
+Kwasiada B-DATE
 a O
 Mframa B-PER
 firi O
@@ -12825,7 +12528,8 @@ kɔɔ O
 ne O
 dan O
 mu O
-awia B-DATE/TIME
+memeneda B-DATE
+awia O
 berɛ O
 no O
 kɔsesaa O
@@ -12908,8 +12612,8 @@ a O
 wankɔ O
 sukuu O
 ntɛm O
-ɛdwoada B-DATE/TIME
-anɔpa I-DATE/TIME
+ɛdwoada B-DATE
+anɔpa O
 bi O
 na O
 nti O
@@ -12943,7 +12647,7 @@ a O
 anka O
 wɔbɛda O
 asore O
-anɔpa B-DATE/TIME
+Kwasiada B-DATE
 no O
 na O
 wayɛ O
@@ -12959,7 +12663,7 @@ kuku B-LOC
 mu I-LOC
 no O
 , O
-nnawɔtwe B-DATE/TIME
+nnawɔtwe O
 koraa O
 annuru O
 na O
@@ -12975,8 +12679,8 @@ kodii O
 n’asɛm O
 . O
 
-Oforisuo B-DATE/TIME
-da I-DATE/TIME
+Oforisuo B-DATE
+da I-DATE
 bi O
 apan B-PER
 bi O
@@ -12988,9 +12692,8 @@ bi O
 ase O
 . O
 
-Da B-DATE/TIME
-koro I-DATE/TIME
-anwummerɛ I-DATE/TIME
+Kitawonsa B-DATE
+anwummerɛ O 
 bi O
 Kwaku B-PER
 Ananse I-PER
@@ -13017,8 +12720,8 @@ no O
 
 Yei O
 nti O
-ɛdwoada B-DATE/TIME
-anɔpatutuutu I-DATE/TIME
+ɛdwoada B-DATE
+anɔpatutuutu O 
 no O
 wɔtutu O
 firii O
@@ -13106,7 +12809,7 @@ da O
 . O
 
 Saa O
-Kwasida B-DATE/TIME
+Kwasida B-DATE
 no O
 duruui O
 no O
@@ -13196,9 +12899,11 @@ nkoguɔ O
 ho O
 . O
 
+
 Ɛbɔɔ O
-awia B-DATE/TIME
-nnɔmmienu I-DATE/TIME
+awia
+nnɔmmienu 
+Yawoada B-DATE
 pɛ O
 na O
 agorɔ-so-hwɛfoɔ O
@@ -13224,8 +12929,8 @@ so O
 mmienu O
 no O
 , O
-simma B-DATE/TIME
-dubaako I-DATE/TIME
+simma O
+dubaako O
 pepeɛpeɛ O
 na O
 Kotokofɔɔ O
@@ -13248,7 +12953,7 @@ na O
 agorɔ O
 . O
 
-Mpofirim B-DATE/TIME
+Mpofirim O 
 ara O
 Haase B-ORG
 akyitaafɔ O
@@ -13322,13 +13027,13 @@ firii O
 afiase B-LOC
 . O
 
-Ɛnne B-DATE/TIME
-Dwoada I-DATE/TIME
+Ɛnne O
+Dwoada B-DATE
 , O
-Ɛbɔ B-DATE/TIME
-12 I-DATE/TIME
-, I-DATE/TIME
-2022 I-DATE/TIME
+Ɛbɔ B-DATE
+12 I-DATE
+, I-DATE
+2022 I-DATE
 , O
 bere O
 a O
@@ -13584,10 +13289,10 @@ no O
 too O
 dwa O
 wɔ O
-Oforisuo B-DATE/TIME
-11 I-DATE/TIME
-, I-DATE/TIME
-2023 I-DATE/TIME
+Oforisuo B-DATE
+11 I-DATE
+, I-DATE
+2023 I-DATE
 mu O
 wɔ O
 nhyiamu O
@@ -13769,8 +13474,8 @@ wɔde O
 too O
 dwa O
 wɔ O
-Ɛbɔ B-DATE/TIME
-bosome I-DATE/TIME
+Ɛbɔ B-DATE
+bosome O
 no O
 mu O
 wɔ O
@@ -13856,7 +13561,7 @@ dada O
 a O
 wɔyɛɛ O
 no O
-2014 B-DATE/TIME
+2014 B-DATE
 no O
 mu O
 na O
@@ -13869,7 +13574,7 @@ ho O
 Kumasi B-ORG
 Asante I-ORG
 Kotoko I-ORG
-y3
+yɛ
 bolibc
 kuo
 a
@@ -13883,9 +13588,9 @@ yɛɛ O
 adwuma O
 pa O
 wɔ O
-afe B-DATE/TIME
-a I-DATE/TIME
-atwam I-DATE/TIME
+afe O
+2024 B-DATE
+atwam O
 no O
 mu O
 . O
@@ -13893,13 +13598,13 @@ mu O
 Ghana B-ORG
 Commercial I-ORG
 Bank I-ORG
-y3 O
+yɛ O
 aban O
 adwumakuo O
 a O
 , O
 wC O
-hw3 O
+hwɛ O
 sika O
 so O
 wo O
@@ -13909,7 +13614,7 @@ nyinaa O
 
 Ghana B-LOC
 aban O 
-b3y3 O 
+bɛyɛ O 
 nhyehyɛe O
 a O
 ɛbɛboa O
@@ -13964,11 +13669,11 @@ rekɔso O
 reboa O
 sukuufo O
 wɔn O
-3retr3 O 
+ɛretrɛ O 
 WAEC B-ORG
-nschw3 O 
+nschwɛ O 
 a O 
-wcfr3 O 
+wcfrɛ O 
 no O 
 WASSCE O
 a O
@@ -13998,7 +13703,7 @@ US O
 sika O
 no O
 ɔpepepɛ O
-3 O
+ɛ O
 mmoa O
 a O
 wɔrehwehwɛ O
@@ -14032,10 +13737,10 @@ anka O
 so O
 Fiada O
 , O
-Ɔpɛnimma B-DATE/TIME
-9 I-DATE/TIME
-, I-DATE/TIME
-2022 I-DATE/TIME
+Ɔpɛnimma B-DATE
+9 I-DATE
+, I-DATE
+2022 I-DATE
 mu O
 no O
 mu O
@@ -14084,12 +13789,12 @@ George B-PER
 Simbachawene I-PER
 kaa O
 no O
-Dwoada B-DATE/TIME
+Dwoada B-DATE
 , O
-Ɔpɛnimma B-DATE/TIME
-5 I-DATE/TIME
-, I-DATE/TIME
-2022 I-DATE/TIME
+Ɔpɛnimma B-DATE
+5 I-DATE
+, I-DATE
+2022 I-DATE 
 no O
 mu O
 sɛ O
@@ -14142,8 +13847,8 @@ afedidie O
 mu O
 . O
 
-Afe B-DATE/TIME
-2015 I-DATE/TIME
+Afe O 
+2015 I-DATE
 mu O
 no O
 , O
@@ -14201,8 +13906,8 @@ yɛ O
 yɛɛ O
 saa O
 wɔ O
-afe B-DATE/TIME
-2020 I-DATE/TIME
+afe O 
+2020 I-DATE
 mu O
 maa O
 wɔde O
@@ -14344,8 +14049,8 @@ yɛhwɛ O
 asukuufoɔ O
 a O
 wɔtwerɛɛ O
-afe B-DATE/TIME
-2022 I-DATE/TIME
+afe O 
+2022 B-DATE
 mu O
 ntoasoɔ O
 sukuu O
@@ -14373,7 +14078,7 @@ no O
 ho O
 a O
 , O
-2022 B-DATE/TIME
+2022 B-DATE
 mu O
 foo O
 na O
@@ -14449,8 +14154,8 @@ yi O
 Akufo-Addo B-PER
 kyere O
 sɛ O
-mfeɛ B-DATE/TIME
-nsia I-DATE/TIME
+mfeɛ O
+nsia O
 nie O
 na O
 wɔde O
@@ -14518,15 +14223,15 @@ Opoku B-ORG
 Ware I-ORG
 Ntoasoɔ I-ORG
 Sukuu I-ORG
-afedida B-DATE/TIME
-a I-DATE/TIME
-ɛtɔ I-DATE/TIME
-70 I-DATE/TIME
-wɔ I-DATE/TIME
-Ɔpɛnimma I-DATE/TIME
-3 I-DATE/TIME
-, I-DATE/TIME
-2022 I-DATE/TIME
+afedida B-DATE
+a I-DATE
+ɛtɔ I-DATE
+70 I-DATE
+wɔ I-DATE
+Ɔpɛnimma I-DATE
+3 I-DATE
+, I-DATE
+2022 I-DATE
 mu O
 no O
 , O
@@ -14589,9 +14294,9 @@ yɛɛ O
 nkɔmɔ O
 kɛse O
 a O 
-eb3boa O 
+ebɛboa O 
 Ghana B-LOC 
-sikase3m O 
+sikaseɛm O 
 . O
 
 Agyinamu O
