@@ -11,7 +11,6 @@ This folder contains raw and processed data files used for building a low-resour
 
 - Only a sample of processed data is included here. The full dataset will be released separately on [Kaggle/Hugging Face] when the project is published.
 - If you are contributing or extending this dataset, please follow the annotation guidelines provided in the root `annotations_guide.md` file.
-<!-- - Approximately 400 annotated sentences are being prepared as part of this dataset. This number is sufficient to train a multilingual baseline model for low-resource language experimentation. -->
 
 ## Format
 
@@ -20,25 +19,50 @@ All processed data files are in CoNLL format with the following entity types:
 - `PER`: Person
 - `ORG`: Organization
 - `LOC`: Location
-- `DATE/TIME`: Temporal expressions (dates and time)
-- `MISC`: Named entities that don't fall into the above categories
+- `DATE`: Temporal expressions (e.g. calendar dates, absolute time references)
 
 Each sentence is separated by a blank line.
 
+> **Note:** All `DATE/TIME`, `TIME`, and related tags were normalized to `DATE` for consistency with the MasakhaNER Twi annotation scheme.
+>
+> `MISC` entity tags have been removed.
+
 ---
 
-> **Note:** Some files were manually corrected for spelling and spacing before annotation.
+## Dataset Composition
+
+- A mix of manually annotated sentences from diverse domains (folklore, news, conversations).
+- Synthetic data was lightly used to improve class balance (especially for ORG/LOC).
+- The combined dataset contains:
+  - ~600+ sentences
+  - ~13,000+ tokens
+  - ~1,000+ labeled entities
+
+> **Note:** All files are encoded in UTF-8.
+
+---
 
 ## Limitations
 
-- Data is from varied domains (folklore, news, etc.) and may not be balanced.
-- Some files are partially annotated.
-- Encoding: All files are UTF-8.
+- Data is from varied domains and may not be fully balanced.
+- Some originally scraped or written files were partially annotated.
+- Class coverage for certain entities (especially ORG) may be lower than PER or LOC.
+
+---
 
 ## Licensing / Attribution
 
-- **Scraped Data**: Used for academic and research purposes under fair use.
-- **Manual Transcripts**: Created by the project author.
-- **Original stories**: Credits in citation docs.
+- **Scraped Data**: Used under academic fair use.
+- **Synthetic / Manual Annotations**: Created by the project author.
+- **Original stories**: See `citation_credits.md` for attributions.
+- **MasakhaNER Twi Data**: Integrated and used under the Creative Commons Attribution 4.0 License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). Sourced from:
 
-Please contact [Grace Aliko](https://github.com/AlikoGrace) for reuse permissions or further questions.
+  > MasakhaNER 2.0: Named Entity Recognition for African Languages.  
+  > GitHub: https://github.com/masakhane-io/masakhane-ner  
+  > Dataset: https://huggingface.co/datasets/masakhaner2
+
+---
+
+## Contact
+
+For questions, collaboration, or reuse permissions, contact [Grace Aliko](https://github.com/AlikoGrace).
