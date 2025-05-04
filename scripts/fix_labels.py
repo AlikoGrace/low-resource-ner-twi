@@ -58,5 +58,5 @@ def clean_labels(filepath):
 
 if __name__ == "__main__":
     clean_labels("data/processed/cleaned_combined_ner_dataset.conll")
-    print("✅ Label fixes applied to cleaned_combined_ner_dataset.conll")
+    print("Label fixes applied to cleaned_combined_ner_dataset.conll")
 

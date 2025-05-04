@@ -1,44 +1,45 @@
 import os
+import argparse
 import random
 
-def read_conll_sentences(filepath):
-    with open(filepath, "r", encoding="utf-8") as f:
+def read_conll(filepath):
+    with open(filepath, encoding="utf-8") as f:
         content = f.read().strip()
-    return content.split("\n\n")
+    return [s.strip() for s in content.split("\n\n") if s.strip()]
 
-def write_sentences(sentences, output_path):
-    with open(output_path, "w", encoding="utf-8") as f:
+def write_conll(sentences, path):
+    with open(path, "w", encoding="utf-8") as f:
         f.write("\n\n".join(sentences))
+        f.write("\n")
 
-def split_dataset(input_path, output_dir, seed=42):
+def split_data(sentences, train_ratio=0.8, dev_ratio=0.1):
+    total = len(sentences)
+    train_end = int(total * train_ratio)
+    dev_end = train_end + int(total * dev_ratio)
+
+    return sentences[:train_end], sentences[train_end:dev_end], sentences[dev_end:]
+
+def main(input_path, output_dir):
     os.makedirs(output_dir, exist_ok=True)
-
-    sentences = read_conll_sentences(input_path)
-    print(f"Total sentences: {len(sentences)}")
-
-    random.seed(seed)
+    sentences = read_conll(input_path)
     random.shuffle(sentences)
 
-    n_total = len(sentences)
-    n_train = int(n_total * 0.8)
-    n_dev = int(n_total * 0.1)
+    train, dev, test = split_data(sentences)
 
-    train = sentences[:n_train]
-    dev = sentences[n_train:n_train + n_dev]
-    test = sentences[n_train + n_dev:]
+    write_conll(train, os.path.join(output_dir, "train.conll"))
+    write_conll(dev, os.path.join(output_dir, "dev.conll"))
+    write_conll(test, os.path.join(output_dir, "test.conll"))
 
-    write_sentences(train, os.path.join(output_dir, "train.conll"))
-    write_sentences(dev, os.path.join(output_dir, "dev.conll"))
-    write_sentences(test, os.path.join(output_dir, "test.conll"))
-
-    print(f"Split complete: Train={len(train)}, Dev={len(dev)}, Test={len(test)}")
-
+    print(f" Done. Split {len(sentences)} sentences:")
+    print(f"  • Train: {len(train)}")
+    print(f"  • Dev:   {len(dev)}")
+    print(f"  • Test:  {len(test)}")
+    print(f"Files saved in: {output_dir}")
 
 if __name__ == "__main__":
-    import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input", type=str, required=True)
-    parser.add_argument("--output_dir", type=str, required=True)
+    parser.add_argument("--input", required=True, help="Path to .conll file (e.g. all_trimmed.conll)")
+    parser.add_argument("--outdir", default="data/split", help="Directory to save splits")
     args = parser.parse_args()
 
-    split_dataset(args.input, args.output_dir)
+    main(args.input, args.outdir)

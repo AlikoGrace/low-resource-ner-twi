@@ -303,10 +303,9 @@ bi O
 . O
 
 
-Nda B-TIME
-kakra I-TIME
-twaa I-TIME
-mu I-TIME
+Wukuada B-DATE
+twaa O 
+mu O 
 na O
 nna O
 biribiara O
@@ -455,14 +454,14 @@ ana O
 edi O
 ediban O
 bebree O
-wɔ B-D
+wɔ O 
 bere O
 ketewa O
 mu O
 ? O
 
 
-Hɔ o
+Hɔ O
 no O
 na O
 ɔtee O
@@ -2030,7 +2029,7 @@ afe I-DATE
 1992 I-DATE
 anɔpa O 
 bi O
-, 0
+, O
 mmarimaa B-PER
 yi I-PER
 sɔre O
@@ -2257,8 +2256,8 @@ mu O
 . O
 
 Wukuada B-DATE
-bi I-DATE/TIME
-anadwo I-DATE/TIME
+bi I-DATE
+anadwo I-DATE
 na O
 awɔ O
 wɔ O
@@ -2620,7 +2619,7 @@ pii O
 kɔsii O
 Dwoada B-DATE
 anadwo O 
-bi o
+bi O
 ɔkaa O
 sɛ O
 , O
@@ -5022,8 +5021,8 @@ mu O
 no O
 , O
 Ekuo O
-a I-O
-Ɛbɔ I-O
+a O
+Ɛbɔ O
 Akuturukubɔfoɔ O
 a O
 Wagye O
@@ -5673,7 +5672,7 @@ asraafoɔ O
 mpanimfoɔ O
 a O
 wɔda O
-GES ORG
+GES B-ORG
 ɛdɔm O
 yinom O
 ano O
@@ -7839,9 +7838,9 @@ kɔsii O
 sɛ O
 na O
 aka O
-berɛ B-TIME
-tiawa I-TIME
-bi I-TIIMe
+berɛ O 
+tiawa O 
+bi O 
 ama O
 wɔapɔn O
 no O
@@ -11129,7 +11128,7 @@ abranteԑ O
 bi O
 tenaa O
 ase O
-wc o
+wc O
 Bolega B-LOC
 a O
 na O
@@ -14146,7 +14145,7 @@ mepɛ O
 sɛ O
 wokɔ O
 Ecobank B-ORG
-anɔpa B-TIME
+anɔpa O 
 yi O
 ? O
 
