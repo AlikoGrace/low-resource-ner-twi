@@ -34,9 +34,15 @@ Each sentence is separated by a blank line.
 - A mix of manually annotated sentences from diverse domains (folklore, news, conversations).
 - Synthetic data was lightly used to improve class balance (especially for ORG/LOC).
 - The combined dataset contains:
-  - ~600+ sentences
-  - ~13,000+ tokens
+  -639 sentences
+  -14,000+ tokens
   - ~1,000+ labeled entities
+    Entity Counts:
+    PER : 454 (40.97%)
+    ORG : 219 (19.77%)
+    LOC : 295 (26.62%)
+    DATE : 136 (12.27%)
+    'O'only :76 (11.74%)
 
 > **Note:** All files are encoded in UTF-8.
 
